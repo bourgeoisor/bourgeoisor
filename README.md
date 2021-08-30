@@ -1,7 +1,7 @@
 ## Hello, world! 👋
 
 💬 My name's Olivier (he/him).<br />
-👨🏻‍💻 I'm a Developer Relations Engineer for [Google Cloud](https://cloud.google.com/), working on [GKE](https://cloud.google.com/kubernetes-engine/) and [Anthos](https://cloud.google.com/anthos/).<br />
+👨🏻‍💻 I'm a software developer at [Google](https://about.google/), improving the developer experience for [GKE](https://cloud.google.com/kubernetes-engine/) and [Anthos](https://cloud.google.com/anthos/).<br />
 🌱 In my free time, I'm currently learning [Vue.js](https://vuejs.org/) and front-end development.<br />
 🏹 Video game enthusiast; and founder and lead developer for [XIV ToDo](https://xivtodo.com).
 
