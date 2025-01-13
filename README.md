@@ -1,6 +1,5 @@
-## Hello, world! 👋
+## Hi! 👋
 
-💬 My name's Olivier (he/him).<br />
 🎨 I'm a software developer at [Google](https://about.google/), improving the developer experience for [Google Kubernetes Engine (GKE)](https://cloud.google.com/kubernetes-engine/).<br />
 🌱 In my free time, I enjoy working on side projects like [XIV ToDo](https://github.com/bourgeoisor/xivtodo) and [Kaero](https://github.com/bourgeoisor/kaero).<br />
 🔭 For more info, check out my personal website, [https://olivi-eh.dev/](https://olivi-eh.dev/)!<br />
