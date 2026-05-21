@@ -6,8 +6,8 @@ I'm a **Software Developer** and **Developer Relations** professional at **Googl
 
 ### 🛠️ Side projects
 
-- 🛡️ **[XIV ToDo](https://github.com/bourgeoisor/xivtodo)** — A dashboard & completion tracker for **Final Fantasy XIV**.
-- 🐸 **[Kaero](https://github.com/bourgeoisor/kaero)** — A keyboard-first terminal IRC client.
+- 🛡️ **[XIV ToDo](https://github.com/olivi-eh/xivtodo)** — A dashboard & completion tracker for **Final Fantasy XIV**.
+- 🐸 **[Kaero](https://github.com/olivi-eh/kaero)** — A keyboard-first terminal IRC client.
 
 ### 🧑🏻‍💻 Let's connect!
 
