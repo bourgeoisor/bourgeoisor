@@ -1,20 +1,17 @@
-## Hi! 👋
+## Hi there, I'm Olivier! 🍁
 
-🎨 I'm a software developer at [Google](https://about.google/), improving the developer experience for [Google Kubernetes Engine (GKE)](https://cloud.google.com/kubernetes-engine/).<br />
-🌱 In my free time, I enjoy working on side projects like [XIV ToDo](https://github.com/bourgeoisor/xivtodo) and [Kaero](https://github.com/bourgeoisor/kaero).<br />
-🔭 For more info, check out my personal website, [https://olivi-eh.dev/](https://olivi-eh.dev/)!<br />
-  
-<!--
-**bourgeoisor/bourgeoisor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
 
-Here are some ideas to get you started:
+I'm a **Software Developer** and **Developer Relations** professional at **Google**, where I focus on improving the developer experience for **Google Kubernetes Engine (GKE)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Side Projects
+- 🛡️ **[XIV ToDo](https://github.com/bourgeoisor/xivtodo)** — A dashboard & completion tracker for **Final Fantasy XIV**.
+- 🐸 **[Kaero](https://github.com/bourgeoisor/kaero)** — A keyboard-first terminal IRC client.
+
+---
+
+🧑🏻‍💻 Let's connect! Check out my personal website & blog at <a href="https://olivi-eh.dev/">olivi-eh.dev</a>.
